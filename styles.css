@@ -18,13 +18,15 @@ body {
   position: absolute;
 }
 
-.menu > button {
+.menu button {
   display: inline-block;
   margin-right: 20px;
+  margin-top: -3px;
   color: #333;
   font-size: 15px;
   border: none;
   background: #fff;
+
 }
 
 .menu a, .recirculation h2 {
@@ -637,6 +639,7 @@ figcaption{
   }
   .header-right .user {
     display: inline-block;
+    margin-top: -8px;
   }
   .menu .fa-search, .menu a {
     display: none;
