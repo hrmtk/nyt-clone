@@ -2,7 +2,7 @@
 
 ## The New York Times clone
 > Copying [this page from the New York Times](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0)\
-> [The New York Times clone](https://hrmtk.github.io/nyt-clone/)
+> Live Demo [The New York Times clone](https://hrmtk.github.io/nyt-clone/)
 
 ## Table of contents
 * [General info](#general-info)
